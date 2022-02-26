@@ -1,0 +1,24 @@
+body{
+  width: 100%;
+  min-height: 2500px;
+}
+h1 {
+  text-align: center;
+  color: salmon;
+}
+.jumbotron{
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+img{
+  width: 170px;
+  margin-bottom: 20px;
+}
+
+#projects{
+  background-color: #e2edff;
+}
+
+section{
+  padding-top: 5rem; 
+}
